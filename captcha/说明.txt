@@ -1,0 +1,2 @@
+config添加captcha验证代码
+html中用的是captcha拓展 需要去放在拓展库中才能使用
